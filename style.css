@@ -3,6 +3,8 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    background: black;
+    color: #fff;
 }
 
 ul li {
@@ -102,7 +104,7 @@ h3 {
 }
 
 .section-container {
-    width: 1400px;
+    width: 1463px;
     margin: auto;
 }
 
@@ -200,9 +202,10 @@ h5 {
 
 .selected ul li {
     padding: 1rem 0;
+    font-size: 1.4rem;
 }
 
-.machado {
+.parades {
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -218,21 +221,76 @@ h5 {
     margin: auto;
 }
 
-.sanches {
+.lautaro {
     text-align: center;
     align-items: center;
     justify-content: center;
     border: 2px gainsboro solid;
     margin: auto;
 }
-
+.romero {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.aguero {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.martinez {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.haland {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.dimaria {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.dybala {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.riyad {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
+.hakimi {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px gainsboro solid;
+    margin: auto;
+}
 .budget {
     text-align: center;
     align-items: center;
     justify-content: center;
     background: black;
     border: 1px rgb(119, 117, 117) solid;
-    width: 288px;
+    width: 350px;
     padding-top: 2rem;
     margin: auto;
 }
@@ -249,7 +307,7 @@ span {
 }
 .inline {
     display: inline-block;
-    margin: 9px 3.5rem 4px 0;
+    margin: 9px 6.3rem 4px 0;
 }
 .total {
     display: flex;
@@ -265,3 +323,13 @@ span {
     color: tomato;
     padding: 0 10px;
 }
+
+/* Footer Section  */
+  .footer {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  h6 {
+    font-size: 1.1rem;
+  }
